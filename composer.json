@@ -1,0 +1,18 @@
+{
+    "name": "cuishanjiang/hello",
+    "description": "cui",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "csj13759878083",
+            "email": "576329379@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
